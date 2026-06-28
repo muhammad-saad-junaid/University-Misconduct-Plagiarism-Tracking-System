@@ -58,6 +58,6 @@ Built entirely using **SQL Server** — no frontend interface. All operations pe
 ---
 
 ## 👥 Authors
-**Muhammad Saad Junaid** (FA23-BCE-107) & Syeda Alishba Zahra (FA23-BCE-106)  
+**Muhammad Saad Junaid** (FA23-BCE-107)  
 Computer Engineering — COMSATS University Lahore  
 🔗 [LinkedIn](https://linkedin.com/in/m-saad-junaid)
